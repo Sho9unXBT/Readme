@@ -7,6 +7,8 @@ Having a good strategy is only half the equation — the true difficulty lies in
 Markets are unpredictable, emotions run high, and hesitation or impulsiveness can erase even the best setups.
 
 This is where SamurAI is your edge in the arena by providing a Trading AI Agent.
+>_Strategy is important.
+Execution is everything_
 
 ## 🚀 SamurAI Features
 - 📈 SamurAI identifies and executes the trade autonomously
