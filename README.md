@@ -1,5 +1,5 @@
-# SamurAI - Autonomous Trading AI Agent
-Welcome to SamurAI Agent – your autonomous partner for finding, executing, and optimizing trades across crypto.
+# SamurAI - Autonomous Trading AI Agent 
+Welcome to **SamurAI** Agent – your autonomous partner for finding, executing, and optimizing trades across crypto.
 
 ## 📖Asbtract
 Trading is often perceived as a battle of strategies, but in reality, it is a battle of execution.
